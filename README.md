@@ -12,7 +12,7 @@
   [![Supported](https://img.shields.io/badge/Bukkit/Spigot/Paper:-black.svg?style=for-the-badge)](https://hub.spigotmc.org/)
   ![Min ver](https://img.shields.io/badge/1.8.X-red.svg?style=for-the-badge)
   ![-](https://img.shields.io/badge/>>-gray.svg?style=for-the-badge)
-  ![Max ver](https://img.shields.io/badge/26.2+-green.svg?style=for-the-badge)
+  ![Max ver](https://img.shields.io/badge/26.3+-green.svg?style=for-the-badge)
 </div>
 
 <br>
